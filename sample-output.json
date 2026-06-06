@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Smith, John A.",
+    "barNumber": "123456",
+    "city": "Los Angeles",
+    "status": "Active",
+    "admittedDate": "June 1998",
+    "detailUrl": "https://apps.calbar.ca.gov/attorney/Licensee/Detail/123456"
+  },
+  {
+    "name": "Smith, Jane B.",
+    "barNumber": "234567",
+    "city": "San Francisco",
+    "status": "Active",
+    "admittedDate": "September 2005",
+    "detailUrl": "https://apps.calbar.ca.gov/attorney/Licensee/Detail/234567",
+    "phone": "(415) 555-0100",
+    "email": "jane@lawfirm.com",
+    "address": "456 Market St, San Francisco, CA 94105",
+    "practiceAreas": ["Civil Litigation", "Employment Law"]
+  }
+]
