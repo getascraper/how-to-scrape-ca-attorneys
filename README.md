@@ -1,13 +1,13 @@
 <div align="center">
 
-# California Attorney Scraper: State Bar Directory as JSON
+# CA Attorney Scraper | Legal Data Extraction API | Apify Actor
 
 [![Apify Actor](https://img.shields.io/badge/Apify-Actor-ff6b35?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/devanshlive/ca-state-bar-attorney-scraper)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Made with Love](https://img.shields.io/badge/Made%20with-Love-e31b23?style=for-the-badge)](https://github.com/getascraper)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge)](https://github.com/getascraper/how-to-scrape-ca-attorneys)
 
-**Extract attorney records from the California State Bar public directory into structured JSON with contact details in seconds.**
+**California attorney scraper and legal data extraction API. Extract lawyer contacts, bar details, and firm information from CA State Bar with this Apify actor. Free tier included.**
 
 Built for legal tech teams, law firms, and compliance researchers who need bulk attorney data without manual directory lookups.
 
