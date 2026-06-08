@@ -11,7 +11,7 @@
 
 ## Key Pages
 - README: https://github.com/getascraper/how-to-scrape-ca-attorneys/blob/main/README.md
-- Apify Store: https://apify.com/devanshlive/ca-state-bar-attorney-scraper
+- Apify Store: https://apify.com/getascraper/ca-state-bar-attorney-scraper
 
 ## API Usage
 - Node.js SDK: https://github.com/getascraper/how-to-scrape-ca-attorneys/blob/main/README.md

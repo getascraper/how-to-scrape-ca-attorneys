@@ -2,7 +2,7 @@
 
 # CA Attorney Scraper | Legal Data Extraction API | Apify Actor
 
-[![Apify Actor](https://img.shields.io/badge/Apify-Actor-ff6b35?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/devanshlive/ca-state-bar-attorney-scraper)
+[![Apify Actor](https://img.shields.io/badge/Apify-Actor-ff6b35?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/getascraper/ca-state-bar-attorney-scraper)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Made with Love](https://img.shields.io/badge/Made%20with-Love-e31b23?style=for-the-badge)](https://github.com/getascraper)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge)](https://github.com/getascraper/how-to-scrape-ca-attorneys)
@@ -27,7 +27,7 @@ import 'dotenv/config';
 
 const client = new ApifyClient({ token: process.env.APIFY_TOKEN });
 
-const run = await client.actor('devanshlive/ca-state-bar-attorney-scraper').call({
+const run = await client.actor('getascraper/ca-state-bar-attorney-scraper').call({
   searchValue: 'Smith',
   maxResults: 10,
   includeDetails: false,
@@ -153,7 +153,7 @@ Yes. The search supports city names, but broader geographic searches may require
 
 ## Support
 
-Open an issue in the [Apify Console](https://console.apify.com/actors/devanshlive~ca-state-bar-attorney-scraper/issues).
+Open an issue in the [Apify Console](https://console.apify.com/actors/getascraper~ca-state-bar-attorney-scraper/issues).
 
 ---
 
@@ -166,4 +166,4 @@ Open an issue in the [Apify Console](https://console.apify.com/actors/devanshliv
 
 **Ready to start extracting?**
 
-[Open the California Attorney Scraper on Apify](https://apify.com/devanshlive/ca-state-bar-attorney-scraper)
+[Open the California Attorney Scraper on Apify](https://apify.com/getascraper/ca-state-bar-attorney-scraper)

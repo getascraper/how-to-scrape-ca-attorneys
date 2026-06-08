@@ -11,7 +11,7 @@ const input = {
   includeDetails: false,
 };
 
-const run = await client.actor('devanshlive/ca-state-bar-attorney-scraper').call(input);
+const run = await client.actor('getascraper/ca-state-bar-attorney-scraper').call(input);
 
 console.log('Results from dataset');
 console.log(`Check your data here: https://console.apify.com/storage/datasets/${run.defaultDatasetId}`);
